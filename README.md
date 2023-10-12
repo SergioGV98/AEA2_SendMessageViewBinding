@@ -3,7 +3,8 @@
 
 
 
-![Logo](https://github.com/SergioGV98/HelloWorld/blob/main/app/src/main/ic_launcher-playstore.png)
+![Logo](https://github.com/SergioGV98/AEA2_SendMessageViewBinding
+/blob/main/app/src/main/ic_launcher-playstore.png)
 
 
 ## Autor
@@ -48,7 +49,7 @@ Tambien he aprendido sobre el Logcat que proporciona una vista detallada de lo q
 
 
 ## Imagenes
-![IMG1](http://url/to/img.png)
-![IMG2](http://url/to/img.png)
-![IMG3](http://url/to/img.png)
-![IMG4](http://url/to/img.png)
+![IMG1](https://github.com/SergioGV98/AEA2_SendMessageViewBinding/blob/main/img/img1.jpg)
+![IMG2](https://github.com/SergioGV98/AEA2_SendMessageViewBinding/blob/main/img/img2.jpg)
+![IMG3](https://github.com/SergioGV98/AEA2_SendMessageViewBinding/blob/main/img/img3.jpg)
+![IMG4](https://github.com/SergioGV98/AEA2_SendMessageViewBinding/blob/main/img/img4.jpg)
