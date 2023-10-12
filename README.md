@@ -2,7 +2,6 @@
 # SendMessageViewBinding
 
 
-
 ![Logo](https://github.com/SergioGV98/AEA2_SendMessageViewBinding/blob/main/app/src/main/ic_launcher-playstore.png)
 
 
@@ -48,7 +47,7 @@ Tambien he aprendido sobre el Logcat que proporciona una vista detallada de lo q
 
 
 ## Imagenes
-![IMG1](https://github.com/SergioGV98/AEA2_SendMessageViewBinding/blob/main/img/img1.jpg)
-![IMG2](https://github.com/SergioGV98/AEA2_SendMessageViewBinding/blob/main/img/img2.jpg)
-![IMG3](https://github.com/SergioGV98/AEA2_SendMessageViewBinding/blob/main/img/img3.jpg)
-![IMG4](https://github.com/SergioGV98/AEA2_SendMessageViewBinding/blob/main/img/img4.jpg)
+<img src="https://github.com/SergioGV98/AEA2_SendMessageViewBinding/blob/main/img/img1.jpg" width="45%"></img> 
+<img src="https://github.com/SergioGV98/AEA2_SendMessageViewBinding/blob/main/img/img2.jpg" width="45%"></img>
+<img src="https://github.com/SergioGV98/AEA2_SendMessageViewBinding/blob/main/img/img3.jpg" width="45%"></img> 
+<img src="https://github.com/SergioGV98/AEA2_SendMessageViewBinding/blob/main/img/img4.jpg" width="45%"></img>
