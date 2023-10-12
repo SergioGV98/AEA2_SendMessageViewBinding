@@ -3,8 +3,7 @@
 
 
 
-![Logo](https://github.com/SergioGV98/AEA2_SendMessageViewBinding
-/blob/main/app/src/main/ic_launcher-playstore.png)
+![Logo](https://github.com/SergioGV98/AEA2_SendMessageViewBinding/blob/main/app/src/main/ic_launcher-playstore.png)
 
 
 ## Autor
