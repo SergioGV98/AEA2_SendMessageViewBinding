@@ -23,6 +23,14 @@ public class SendMessageActivity extends AppCompatActivity {
     private ActivitySendMessageBinding binding;
     public static final String TAG = "MessageApplication";
 
+    /**
+     * Metodo onCreate el cual infla una vista de la actividad y configura un oyente para el boton fab
+     * mediante una expresion lambda le enviamos a esa vista el mensaje.
+     * @param savedInstanceState If the activity is being re-initialized after
+     *     previously being shut down then this Bundle contains the data it most
+     *     recently supplied in {@link #onSaveInstanceState}.  <b><i>Note: Otherwise it is null.</i></b>
+     *
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -32,6 +40,12 @@ public class SendMessageActivity extends AppCompatActivity {
         Log.d(TAG, "SendMessageActivity -> onCreate()");
     }
 
+    /**
+     * Metodo que infla el menu principal con elementos de opciones.
+     * @param menu The options menu in which you place your items.
+     *
+     * @return devuelve true para indicar qeu el menu se ha inflado correctamente.
+     */
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();
@@ -39,6 +53,12 @@ public class SendMessageActivity extends AppCompatActivity {
         return true;
     }
 
+    /**
+     * Maneja la seleccion de elementos del menu de opciones.
+     * @param item The menu item that was selected.
+     *
+     * @return Devuelve true si la seleccion se maneja con exito, de lo contrario se llama al metodo base.
+     */
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
@@ -84,8 +104,8 @@ public class SendMessageActivity extends AppCompatActivity {
     }
     //endregion
 
-    /*
-     * Metodo que construye el mensaje y lo envia a otra Activity
+    /**
+     * Metodo que construye el mensaje y lo envia a otra Activity (ViewActivity)
      */
     public void sendMessage(){
         Intent intent = new Intent(this, ViewActivity.class);
