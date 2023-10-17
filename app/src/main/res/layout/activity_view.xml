@@ -13,7 +13,8 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:layout_margin="12dp"
-        android:textSize="15sp"
+        android:paddingBottom="@dimen/tvUserInfo_paddingBottom"
+        android:textSize="@dimen/tvUserInfo_textSize"
         android:background="@color/container"
         android:text="@string/tvUserInfoText" />
 
@@ -23,7 +24,9 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:layout_margin="12dp"
-        android:textSize="15sp"
+        android:padding="@dimen/edMessage_padding"
+        android:layout_marginVertical="@dimen/edMessage_marginVertical"
+        android:textSize="@dimen/tvMessage_textSize"
         android:background="@color/container"
         android:text="@string/tvMessageText" />
 </LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tvTitleMessage_textSize">20sp</dimen>
+    <dimen name="tvUserInfo_textSize">20sp</dimen>
+    <dimen name="tvMessage_textSize">20sp</dimen>
+    <dimen name="tvUserInfo_paddingBottom">10dp</dimen>
+    <dimen name="edMessage_padding">20dp</dimen>
+    <dimen name="edMessage_marginVertical">10dp</dimen>
+</resources>
